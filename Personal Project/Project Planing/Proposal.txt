@@ -1,0 +1,54 @@
+Project Information
+  Project: TinyUrl
+  Project Time-frame: To be determined
+  Summary: The project will be a form of understand better javascript for me and to get familiar with the start of a project
+  
+Background and Motivation
+
+  What is the setting and history behind this project?
+    This project was born as a proposal for me to understand javascript better Erik Villa suggest to start with a little project
+    so I came with the idea of doing a TinyUrl.
+  
+  What is the problem to be addressed?
+    There are millions of url in the internet and some of then are very large for the user to remember so a TinyUrl would help the user
+    to keep shorter links
+
+  Why is this problem worth solving or worth solving better?
+
+    This problem is worth solving because it is easy enough for to get a better understanding of javascript
+
+Goal
+
+  What is the goal of this project?
+
+    This project will create and api and a frontend that will reduce url provide by the user
+  
+  What are the defining features and benefits of this product?
+
+    - A website capable of searching, insertition, deletion and listing of urls
+    - An Api capable of be sustainable that do the CRUD functions
+  
+Scope
+
+  In scope          
+
+  Build a web application that works on the popular browsers
+  Build an application capable of handle a big quantity of url in the database
+  Simple Frontend view
+  
+  No in scope
+
+  Build a web application for uncommon or outdated browsers
+  Implement users and security
+
+Risks and Rewards
+
+  What are the main risks of this project?
+    1.- Keep the project dead for sometime depending on my work projects
+  
+  What are the main rewards if this project succeeds?
+    1.- Get a much better understading on how javascript works
+    2.- Know how to build an Api from scratch
+    
+
+

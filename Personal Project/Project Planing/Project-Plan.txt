@@ -1,0 +1,34 @@
+Project Information
+  Project: TinyUrl
+  Project Time-frame: To be determined
+
+Summary of Project 
+
+  The project will be a TynyUrl that will help me understand javascript a little better 
+
+Risk Management 
+
+  1. There is a potencial risk that  due to my work projects this personal project to be sometimes in stand by.
+  To avoid this i will me time to advance on this project in outside office hours
+
+Project Planing Dependencies 
+
+Does this project conflict or compete with any other?
+
+  Yes, I need to determine how many hours i can dedicate to this side project
+
+Are the same human or machine resources allocated to maintenance of past versions and/or planning of future versions during this release time period?
+
+  No, I don't have past version of this project
+
+Does this project depend on the success of any other project?
+
+  No, this project stands alone
+
+Does any other project depend on this project?
+
+  No, this project is not producing any components that will be used in other current project
+
+Are there any other important dependencies that will affect this project?
+
+  No, everything is covered above

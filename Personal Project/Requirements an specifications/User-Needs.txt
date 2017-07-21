@@ -1,0 +1,11 @@
+  Project: TinyUrl
+
+  Agreed Goals
+
+    Erik and I agree that this project will have an api that will do the CRUD methods and a frontend for the user to see the information
+
+  What is the system's physical environment?
+
+    This system is the mac used for work 
+  
+  

@@ -1,0 +1,21 @@
+What problem does this project address?
+ This project is going to be about a TinyUrl that should be capable of receive a url and reduce it.
+
+What is the goal of this project?
+  To create and Api and a frontend that will handle the reduction of the original url,
+  show the list of the already store urls.
+  This project aims to help me understand better the functionality of javascript
+
+What is the scope of this project?
+  The scope is to first create and api that receive a url and reduce it to a hash value
+  Then it will put it in a database for later consultant
+  When the basic CRUD functions are working create the frontend that will call the Api for the user to understand more clearly
+
+  deadlines: to be defined
+
+What development methodology is being used?
+  To be defined
+
+Where should a new team member start?
+  For more information, see the project proposal
+  
